@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arvind Badgujar 👋</h1>
 
 <p align="center">
-  <b>Senior GenAI & ML Engineer</b> · 10+ years of engineering leadership<br/>
+  <b>GenAI & ML Engineer / Full Stack Developer </b> · 10+ years of engineering leadership<br/>
   MSc Artificial Intelligence · University of Aberdeen (2026)<br/>
   🇬🇧 Aberdeen, United Kingdom<br/><br/>
   <a href="https://www.linkedin.com/in/arvind-badgujar-5067486a/">
