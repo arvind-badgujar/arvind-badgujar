@@ -47,18 +47,6 @@
 
 > 🔗 Update each link above once repos are created.
 
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvind-badgujar&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Arvind's GitHub stats" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind-badgujar&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top languages" height="160"/>
-</p>
-
----
-
 ## 🧠 Tech stack
 
 **AI / ML**
