@@ -10,7 +10,7 @@
   <a href="mailto:arvind_win53@yahoo.co.in">
     <img src="https://img.shields.io/badge/Email-arvind__win53%40yahoo.co.in-D44638?logo=gmail&logoColor=white&style=flat-square" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Open_to-Senior_ML_%2F_AI_Roles_UK-22c55e?style=flat-square" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Open_to-ML_%2F_AI_Roles_UK-22c55e?style=flat-square" alt="Open to work"/>
 </p>
 
 ---
